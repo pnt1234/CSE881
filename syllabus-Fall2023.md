@@ -1,4 +1,4 @@
-f## CSE882: Data Mining (Fall 2023)
+## CSE882: Data Mining (Fall 2023)
 ---
 
 ### General Information:

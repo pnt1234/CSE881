@@ -17,7 +17,7 @@ This course will cover the fundamental topics in data mining including classific
 Homework assignments and the class project require programming in Python and Matlab. Students who are not familiar with these programming languages are expected to be able to learn them on their own. Students are also expected to have some basic knowledge of algorithms and data structures, linear algebra, and probability/statistics. If you do not have the background, you should enroll in CSE 840 (Computational Foundations in AI).
 
 There is no textbook for the class. The materials for the lecture will be adapted from the following recommended books: 
-- Introduction to Data Mining (2nd Edition) by Tan, Steinbach, Karpatne, and Kumar, Addison Wesley (2006)
+- Introduction to Data Mining (2nd Edition) by Tan, Steinbach, Karpatne, and Kumar, Addison Wesley, 2nd Edition (2018)
 Sample chapters of the book are available at [here](http://www.cs.umn.edu/~kumar/dmbook). 
 - Mining of Massive Datasets by Leskovec, Rajaraman, and Ullman, 2nd Edition, Cambridge University Press (2014), available [here](http://www.mmds.org).
 

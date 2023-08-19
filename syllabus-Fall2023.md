@@ -8,21 +8,18 @@
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
 - Instructor's office hours: Tue, Thu 2:00-3:00pm in EB 2129.
-- Teaching Assistant: Jie Ren 
+- Teaching Assistant: Jie Ren [[email](mailto:renjie3@msu.edu)]
 - TA's office hours: TBD
 
 ### Course Description: 
-This course will cover the fundamental topics in data mining including classification, clustering, association analysis, and 
-anomaly detection. The course is aimed towards graduate students who are interested to do research in data mining, machine learning, 
-and other related disciplines. Homework assignments and the class project require programming in Python. The course assumes students 
-already have experience programming in python (including how to download and install the relevant python packages and working with 
-Jupyter/python notebook).Students are also expected to have some basic knowledge of linear algebra and probability/statistics.
+This course will cover the fundamental topics in data mining including classification, clustering, association analysis, and anomaly detection. The course is aimed towards graduate students who are interested to do research in data mining, machine learning, and other related disciplines. This is not an introductory course in data mining. Students who have no experience in data analysis but who are interested to learn more about the tools and programming aspects for analyzing big data are encouraged to enroll in CSE 482 (big data analysis) instead. 
+
+Homework assignments and the class project require programming in Python and Matlab. Students who are not familiar with these programming languages are expected to be able to learn them on their own. Students are also expected to have some basic knowledge of algorithms and data structures, linear algebra, and probability/statistics. If you do not have the background, you should enroll in CSE 840 (Computational Foundations in AI).
 
 There is no textbook for the class. The materials for the lecture will be adapted from the following recommended books: 
-- C.C. Aggarwal, "Linear Algebra and Optimization for Machine Learning: A Textbook". Springer (2020). 
-- S. Banerjee and A. Roy. “Linear Algebra and Matrix Analysis for Statistics”, CRC Press (2014).
-- S. Boyd and L. Vandenberghe, "Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares", Cambridge University Press (2018). A draft of the book is available [here](http://vmls-book.stanford.edu/).
-- A. Blum, J. Hopcroft, and R. Kannan. “Foundations of Data Science”, Cambridge University Press (2020). A draft of the book is available [here](https://www.cs.cornell.edu/jeh/book.pdf).
+- Introduction to Data Mining (2nd Edition) by Tan, Steinbach, Karpatne, and Kumar, Addison Wesley (2006)
+Sample chapters of the book are available at [here](http://www.cs.umn.edu/~kumar/dmbook). 
+- Mining of Massive Datasets by Leskovec, Rajaraman, and Ullman, 2nd Edition, Cambridge University Press (2014), available [here](http://www.mmds.org).
 
 ### Instructional Objectives:
 The primary learning objectives of this course are:

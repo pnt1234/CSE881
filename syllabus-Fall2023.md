@@ -8,7 +8,7 @@
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
 - Instructor's office hours: Tue, Thu 2:00-3:00pm in EB 2129.
-- Teaching Assistant: TBD
+- Teaching Assistant: Jie Ren 
 - TA's office hours: TBD
 
 ### Course Description: 

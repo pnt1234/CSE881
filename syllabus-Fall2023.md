@@ -9,7 +9,7 @@
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
 - Instructor's office hours: Tue, Thu 2:00-3:00pm in EB 2129.
 - Teaching Assistant: Jie Ren [[email](mailto:renjie3@msu.edu)]
-- TA's office hours: TBD
+- TA's office hours: Mon 9:10-10:10am, Fri 2:00-3:00pm (room TBD).
 
 ### Course Description: 
 This course will cover the fundamental topics in data mining including classification, clustering, association analysis, and anomaly detection. The course is aimed towards graduate students who are interested to do research in data mining, machine learning, and other related disciplines. This is not an introductory course in data mining. Students who have no experience in data analysis but who are interested to learn more about the tools and programming aspects for analyzing big data are encouraged to enroll in CSE 482 (big data analysis) instead. 

@@ -12,23 +12,14 @@
 - TA's office hours: Mon 9:10-10:10am, Fri 2:00-3:00pm (room TBD).
 
 ### Course Description: 
-This course will cover the fundamental topics in data mining including classification, clustering, association analysis, and anomaly detection. The course is aimed towards graduate students who are interested to do research in data mining, machine learning, and other related disciplines. This is not an introductory course in data mining. Students who have no experience in data analysis but who are interested to learn more about the tools and programming aspects for analyzing big data are encouraged to enroll in CSE 482 (big data analysis) instead. 
+This course will cover the fundamental topics in data mining including classification, clustering, association analysis, and anomaly detection. The course is aimed towards graduate students who are interested to do research in artificial intelligence, machine learning, and other related disciplines. This is not an introductory course in data mining. Students who have no experience in data analysis but who are interested to learn more about the tools and programming techniques 00for analyzing big data are encouraged to enroll in CSE 482 (big data analysis) instead. 
 
-Homework assignments and the class project require programming in Python and Matlab. Students who are not familiar with these programming languages are expected to be able to learn them on their own. Students are also expected to have some basic knowledge of algorithms and data structures, linear algebra, and probability/statistics. If you do not have the background, you should enroll in CSE 840 (Computational Foundations in AI).
+Homework assignments and the class project require programming in Python. Students are expected to have some basic knowledge of algorithms and data structures, linear algebra, and probability/statistics. If you do not have the mathematical background, you should enroll in CSE 840 (Computational Foundations in AI).
 
 There is no textbook for the class. The materials for the lecture will be adapted from the following recommended books: 
 - Introduction to Data Mining (2nd Edition) by Tan, Steinbach, Karpatne, and Kumar, Addison Wesley, 2nd Edition (2018)
 Sample chapters of the book are available at [here](http://www.cs.umn.edu/~kumar/dmbook). 
 - Mining of Massive Datasets by Leskovec, Rajaraman, and Ullman, 2nd Edition, Cambridge University Press (2014), available [here](http://www.mmds.org).
-
-### Instructional Objectives:
-The primary learning objectives of this course are:
-- To provide students with the mathematical background needed in AI, machine learning, and other related fields.
-- To enable students to have hands-on experience writing programs for manipulating/analyzing data based on the concepts learned in class.  
-
-You will meet the objectives listed above through a combination of the following activities in this course: 
-- Attend and participate in the discussion during lecture.
-- Successfully complete the quizzes, homework assignments, exam, and project. 
 
 ### Course Requirements:
 -	Access to [Desire2Learn](https://d2l.msu.edu) (D2L) and [Piazza](https://piazza.com/msu/fall2022/cse840/home). 
@@ -39,20 +30,19 @@ This course will be delivered in person. You can access the course materials, qu
 
 ### Course Outline: 
 The topics to be covered in this course include:
-- Linear algebra (chapters 1-3, 7, 8 of Aggarwal2020)
-- Probability and statistics.
-- Numerical optimization (chapters 4-6 of Aggarwal2020).
-- Random walk and Markov chain Monte Carlo (chapter 4 of Blum et al 2020).
-- Artificial neural networks.
+- Data preprocessing
+- Predictive modeling
+- Association analysis
+- Cluster analysis
+- Anomaly detection
 
-A tentative class schedule can be found [here](https://pnt1234.github.io/CSE840/Fall2022/schedule-Fall2022)
+A tentative class schedule can be found [here](https://pnt1234.github.io/CSE881/schedule-Fall2023)
 
 ### Course Assessment:
 Students will be assessed based on the following:
-- Homework (50%)
-- Online quizzes (30%)
-- Project (10%)
-- Exam (10%)
+- Homework (60%)
+- Project (15%)
+- Exams (25%)
 
 The final grade will be determined based on the following scale:
 
@@ -67,17 +57,15 @@ The final grade will be determined based on the following scale:
 | 1.0 | [60,65)  |
 
 ### Important Dates:
-The last day for online add period is Sept 7, 2022. The last day to drop this course with tuition refund is Sept 23, 2022. Middle of the semester and last date to drop with no grade reported is October 18 before 8:00 pm. More details about the academic calendar can be found at [https://reg.msu.edu/ROInfo/Calendar/Academic.aspx](https://reg.msu.edu/ROInfo/Calendar/Academic.aspx). Other important dates:
-- Sept 5, 2022: No class (due to Labor day)
-- Oct 24, 2022: No class (break day)
+The last day for online add period is Sept 1, 2023. The last day to drop this course with tuition refund is Sept 21, 2023. Middle of the semester and last date to drop with no grade reported is October 16, 2023. More details about the academic calendar can be found at [https://reg.msu.edu/ROInfo/Calendar/Academic.aspx](https://reg.msu.edu/ROInfo/Calendar/Academic.aspx). Other important dates:
+- Sept 4, 2023: No class (due to Labor day)
+- Oct 23-24, 2023: No class (break day)
 
 ### Course Policies:
 
-- **Vaccination:** All students must adhere to the university policy regarding vaccination. In the case of an outbreak of the COVID-19 virus, it may be required to temporarily change the instructional modality for this course. Students should be prepared to complete the course work as dictated by the circumstances of the state and university policies.
-- **Attendance:** Students are expected to attend all the lectures and must inform the instructor if they are unable to do so due to emergency or other legitimate reasons (e.g., quarantine due to having symptoms of Covid-19).
-- **Online Quizzes:** Online quizzes will be available on D2L and must be completed before midnight on Friday of the assigned week (unless specified otherwise). **No extension will be given.** You are allowed up to 3 attempts per quiz (only the highest grade for each quiz will be recorded). Only the top-10 highest quiz scores will be counted toward your final grade.
+- **Attendance:** Students are expected to attend all the lectures and must inform the instructor if they are unable to do so due to emergency or other legitimate reasons .
 - **Assignment and Late Submission Policy:** Homework assignments are due before midnight on the due date unless specified otherwise. All written portion of your assignments must be typed and submitted in PDF format (no handwritten notes will be accepted). LaTex templates will be provided (Word or other text editors are also acceptable). You must use [D2L](http://d2l.msu.edu) to submit your solution. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
-- **Exam Information:** There will be 1 midterm exam and no final exam. Exam will be open book and notes. Make-up examination can be arranged if your absence is due to conference travel, documented illness, or personal emergency. A written explanation (including supporting documentation) must be submitted to the instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance, at least a week before the scheduled exam. 
+- **Exam Information:** There will be 1 midterm and 1 final exam. Exams will be open book and notes. Make-up examination can be arranged if your absence is due to conference travel, documented illness, or personal emergency. A written explanation (including supporting documentation) must be submitted to the instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance, at least a week before the scheduled exam. 
 - **Discussion Forum:** We will be using [Piazza](https://piazza.com/msu/fall2022/cse840/home) for class discussion. Rather than emailing class-related questions to the instructor, you are encouraged to post them on Piazza. Do not post your partial solution (e.g., snippets of your code) or attempted solution (e.g., for assignments or project) on Piazza. In addition, you must not post the course materials (including slides, quizzes, homework assignments, exam, and their solutions) on any other websites without permission from the instructor. You are also prohibited from soliciting help by posting quiz and homework questions online on websites such as Chegg, Brainly, Quizlet, and other similar websites. Violation of the policy will result in an Academic Dishonesty Report (ADR) filed and a zero grade for the entire quiz or assignment. The ADR for students who continue to post questions from assignments or quizzes to these sites will lead to additional sanctions, including an automatic failing grade of zero (0.0) for the course. 
 - **Study Groups:** You are allowed to form study groups to learn the materials in class. However, you are forbidden from sharing the solution of your quizzes, homework assignments, and programming project with other students.  This includes sharing your solution with another student to double-check answers, which is considered cheating. All submitted assignments (quizzes, homeworks, project, and exam) must be your own work.**Students who were found copying or sharing their solutions with other students will automatically receive a zero for the entire assignment.* In addition, an Academic Dishonesty Report will be filed and submitted to the university.
 - **Resources for Persons with Disabilities (RCPD):** Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at rcpd.msu.edu. Once your eligibility for an accommodation has been determined, you will be issued a verified individual services accommodation (“VISA”) form. Please present this form to me at the start of the term and/or two weeks prior to the accommodation date (exam, homework, project, etc). To make an appointment with a specialist, contact:  (517) 353-9642 or TTY:  (517) 355-1293. The website for RCPD is located at [http://MYProfile.rcpd.msu.edu](http://MYProfile.rcpd.msu.edu).

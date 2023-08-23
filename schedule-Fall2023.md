@@ -1,0 +1,40 @@
+## Tentative Class Schedule
+---
+ Below is a tentative schedule for the class. Instructor reserves the right to modify it. Please check back regularly. 
+
+**Note:** Quizzes are due on Fridays (before midnight) and homeworks are usually due on Sundays (before midnight) unless stated otherwise.
+
+| Week |    Dates   |    Topics and Reading Materials                |  Weekly Deliverables     |
+|------|:-----------|------------------------------------------------|----------------------|
+| 1  | 8/29/2023    | Introduction  |                    |
+|    | 8/31/2023    |                            |                    | 
+| 2  | 9/5/2023     |    |       |
+|    | 9/7/2023     |    |       |
+| 3  | 9/12/2023    |    |       | 
+|    | 9/14/2023    |    |       |
+| 4  | 9/19/2023    |    |       | 
+|    | 9/24/2023    |    |       |
+| 5  | 9/26/2023    |    |       |
+|    | 9/28/2023    |    |       |
+| 6  | 10/3/2023    |    |       |
+|    | 10/5/2023    |    |       |
+| 7  | 10/10/2023   |    |       |
+|    | 10/12/2023   |    |       |
+| 8  | 10/17/2023   |    |       |
+|    | 10/19/2023   |    |       |
+| 9  | 10/24/2023   | No class (break day) |  |
+|    | 10/26/2023   |   |   |
+| 10 | 10/31/2023   |   |  |
+|    | 11/2/2023    |     |   |
+| 11 | 11/7/2023    |   |  |
+|    | 11/9/2023    |                   |   |
+| 12 | 11/14/2023   |   |  |
+|    | 11/16/2023   |   |  |
+| 13 | 11/21/2023   |   |  |
+|    | 11/23/2023   |   |   |
+| 14 | 11/28/2023   |   |  |
+|    | 11/30/2023   |   |   | 
+| 15 | 12/5/2023    |    |  |
+|    | 12/7/2023    |    |   |
+| 16 |              | Final Exam |   |
+

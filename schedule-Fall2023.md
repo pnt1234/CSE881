@@ -23,7 +23,7 @@
 |    | 10/19/2023   | Association analysis   | Homework 3      |
 | 9  | 10/24/2023   | No class (break day) |  |
 |    | 10/26/2023   | Association analysis  |   |
-| 10 | 10/31/2023   | Sequence mining  |     |
+| 10 | 10/31/2023   | Sequence mining  |  Project intermediate report  |
 |    | 11/2/2023    | Graph mining    |   |
 | 11 | 11/7/2023    | Cluster analysis  |  |
 |    | 11/9/2023    | Cluster analysis   | Homework 4   |
@@ -34,6 +34,6 @@
 | 14 | 11/28/2023   | Applications  |   |
 |    | 11/30/2023   | Applications  |   | 
 | 15 | 12/5/2023    | Project presentation   |  |
-|    | 12/7/2023    | Project presentation   |   |
+|    | 12/7/2023    | Project presentation   |  Project final report |
 | 16 | 12/14/2023   | Final Exam |   |
 

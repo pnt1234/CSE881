@@ -35,6 +35,7 @@ The topics to be covered in this course include:
 - Association analysis
 - Cluster analysis
 - Anomaly detection
+- Applications to graphs, time series, and spatio-temporal data.
 
 A tentative class schedule can be found [here](https://pnt1234.github.io/CSE881/schedule-Fall2023)
 

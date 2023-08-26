@@ -37,7 +37,7 @@ The primary learning objectives of this course are:
 You will meet the objectives listed above through a combination of the following activities in this course: 
 - Attend and participate in the discussion during lecture.
 - Successfully complete the homework assignments, exam, and project.
-- 
+  
 ### Course Outline: 
 Techniques and algorithms for knowledge discovery in databases, from data preprocessing and transformation to model validation and post-processing. Core concepts include association analysis, sequential pattern discovery, anomaly detection, predictive modeling, and cluster analysis. Application of data mining to various application domains.
 

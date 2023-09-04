@@ -8,10 +8,10 @@
 | 1  | 8/29/2023    | Introduction  |                    |
 |    | 8/31/2023    | Data quality & preprocessing                           |                    | 
 | 2  | 9/5/2023     | Data preprocessing   |       |
-|    | 9/7/2023     | Dimensionality reduction   |  Project Team     |
-| 3  | 9/12/2023    | Similarity search   |       | 
-|    | 9/14/2023    | Regression analysis   | Homework 1      |
-| 4  | 9/19/2023    | Classification   |       | 
+|    | 9/7/2023     | Dimensionality reduction   |       |
+| 3  | 9/12/2023    | Similarity search   |   Project Team    | 
+|    | 9/14/2023    | Regression analysis   |       |
+| 4  | 9/19/2023    | Classification   |  Homework 1     | 
 |    | 9/24/2023    | Classification   |       |
 | 5  | 9/26/2023    | Classification   | Project Proposal  |
 |    | 9/28/2023    | Classification   |            |

@@ -11,7 +11,7 @@
 |    | 9/7/2023     | Dimensionality reduction   |       |
 | 3  | 9/12/2023    | Similarity search   |   Project Team    | 
 |    | 9/14/2023    | Regression analysis   |       |
-| 4  | 9/19/2023    | Classification   |  Homework 1     | 
+| 4  | 9/19/2023    | Regression analysis   |  Homework 1     | 
 |    | 9/24/2023    | Classification   |       |
 | 5  | 9/26/2023    | Classification   | Project Proposal  |
 |    | 9/28/2023    | Classification   |            |

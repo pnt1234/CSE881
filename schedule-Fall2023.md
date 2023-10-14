@@ -30,8 +30,8 @@
 | 12 | 11/14/2023   | Cluster analysis  |  |
 |    | 11/16/2023   | Cluster analysis  |  |
 | 13 | 11/21/2023   | Cluster analysis  |  |
-|    | 11/23/2023   | Anomaly detection  | Homework 5   |
-| 14 | 11/28/2023   | Applications  |   |
+|    | 11/23/2023   | Anomaly detection  |    |
+| 14 | 11/28/2023   | Applications  | Homework 5 |
 |    | 11/30/2023   | Applications  |   | 
 | 15 | 12/5/2023    | Project presentation   |  |
 |    | 12/7/2023    | Project presentation   |  Project final report |

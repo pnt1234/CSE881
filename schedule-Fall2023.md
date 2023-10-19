@@ -20,7 +20,7 @@
 | 7  | 10/10/2023   | Classification   |       |
 |    | 10/12/2023   | Midterm exam     |       |
 | 8  | 10/17/2023   | Classification   |       |
-|    | 10/19/2023   | Association analysis   | Homework 3      |
+|    | 10/19/2023   | Classification   | Homework 3      |
 | 9  | 10/24/2023   | No class (break day) |  |
 |    | 10/26/2023   | Association analysis  |   |
 | 10 | 10/31/2023   | Sequence mining  |  Project intermediate report  |
@@ -30,8 +30,8 @@
 | 12 | 11/14/2023   | Cluster analysis  |  |
 |    | 11/16/2023   | Cluster analysis  |  |
 | 13 | 11/21/2023   | Cluster analysis  |  |
-|    | 11/23/2023   | Anomaly detection  | Homework 5   |
-| 14 | 11/28/2023   | Applications  |  |
+|    | 11/23/2023   | No class (Thanksgiving)  | Homework 5   |
+| 14 | 11/28/2023   | Anomaly detection  |  |
 |    | 11/30/2023   | Applications  |   | 
 | 15 | 12/5/2023    | Project presentation   |  |
 |    | 12/7/2023    | Project presentation   |  Project final report |

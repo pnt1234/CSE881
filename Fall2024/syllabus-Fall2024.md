@@ -4,7 +4,7 @@
 ### General Information:
 
 - Lecture Hours: Tue, Thu: 3:00 - 4:20pm
-- Lecture Location: 
+- Lecture Location: Hubbard Hall G32
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
 - Instructor's office hours: TBD

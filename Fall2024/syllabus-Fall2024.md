@@ -49,7 +49,7 @@ The topics to be covered in this course include:
 - Anomaly detection
 - Applications to graphs and spatio-temporal data.
 
-A tentative class schedule can be found [here](https://pnt1234.github.io/CSE881/schedule-Fall2024)
+A tentative class schedule can be found [here](https://pnt1234.github.io/CSE881/Fall2024/schedule-Fall2024)
 
 ### Course Assessment:
 Students will be assessed based on the following:

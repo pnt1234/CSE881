@@ -6,7 +6,7 @@
 | Week |    Dates   |    Topics and Reading Materials                |  Deliverables     |
 |------|:-----------|------------------------------------------------|----------------------|
 | 1  | 8/26/2024    | Introduction  |                    |
-|    | 8/28/2024    | No class (cancellled)                         |                    | 
+|    | 8/28/2024    | No class (cancelled)                         |                    | 
 | 2  | 9/3/2024     | Data preprocessing   |       |
 |    | 9/5/2024     | Dimensionality reduction   |       |
 | 3  | 9/10/2024    | Similarity search   |   Project Team    | 

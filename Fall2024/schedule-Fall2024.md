@@ -5,35 +5,35 @@
 
 | Week |    Dates   |    Topics and Reading Materials                |  Deliverables     |
 |------|:-----------|------------------------------------------------|----------------------|
-| 1  | 8/29/2023    | Introduction  |                    |
-|    | 8/31/2023    | Data quality & preprocessing                           |                    | 
-| 2  | 9/5/2023     | Data preprocessing   |       |
-|    | 9/7/2023     | Dimensionality reduction   |       |
-| 3  | 9/12/2023    | Similarity search   |   Project Team    | 
-|    | 9/14/2023    | Regression analysis   |       |
-| 4  | 9/19/2023    | Regression analysis   |  Homework 1     | 
-|    | 9/24/2023    | Time series forecasting   |       |
-| 5  | 9/26/2023    | Classification   | Project Proposal  |
-|    | 9/28/2023    | Classification   |            |
-| 6  | 10/3/2023    | Classification   | Homework 2      |
-|    | 10/5/2023    | Classification   |       |
-| 7  | 10/10/2023   | Classification   |       |
-|    | 10/12/2023   | Midterm exam     |       |
-| 8  | 10/17/2023   | Classification   |       |
-|    | 10/19/2023   | Classification   | Homework 3      |
-| 9  | 10/24/2023   | No class (break day) |  |
-|    | 10/26/2023   | Association analysis  |   |
-| 10 | 10/31/2023   | Sequence mining  |  Project intermediate report  |
-|    | 11/2/2023    | Graph mining    |   |
-| 11 | 11/7/2023    | Cluster analysis  |  |
-|    | 11/9/2023    | Cluster analysis   | Homework 4   |
-| 12 | 11/14/2023   | Cluster analysis  |  |
-|    | 11/16/2023   | Cluster analysis  |  |
-| 13 | 11/21/2023   | Cluster analysis  |  |
-|    | 11/23/2023   | No class (Thanksgiving)  | Homework 5   |
-| 14 | 11/28/2023   | Anomaly detection  |  |
-|    | 11/30/2023   | Applications  |   | 
-| 15 | 12/5/2023    | Project presentation   |  |
-|    | 12/7/2023    | Project presentation   |  Project final report |
-| 16 | 12/14/2023   | Final Exam |   |
+| 1  | 8/26/2024    | Introduction  |                    |
+|    | 8/28/2024    | No class (cancellled)                         |                    | 
+| 2  | 9/3/2024     | Data preprocessing   |       |
+|    | 9/5/2024     | Dimensionality reduction   |       |
+| 3  | 9/10/2024    | Similarity search   |   Project Team    | 
+|    | 9/12/2024    | Regression analysis   |       |
+| 4  | 9/17/2024    | Regression analysis   |  Homework 1     | 
+|    | 9/19/2024    | Time series forecasting   |       |
+| 5  | 9/24/2024    | Classification   | Project Proposal  |
+|    | 9/26/2024    | Classification   |            |
+| 6  | 10/1/2024    | Classification   | Homework 2      |
+|    | 10/3/2024    | Classification   |       |
+| 7  | 10/8/2024   | Classification   |       |
+|    | 10/10/2024   | Midterm exam     |       |
+| 8  | 10/15/2024   | Classification   |       |
+|    | 10/17/2024   | Classification   | Homework 3      |
+| 9  | 10/22/2024   | No class (break day) |  |
+|    | 10/24/2024   | Association analysis  |   |
+| 10 | 10/29/2024   | Sequence mining  |  Project intermediate report  |
+|    | 10/31/2024    | Graph mining    |   |
+| 11 | 11/5/2024    | Cluster analysis  |  |
+|    | 11/7/2024    | Cluster analysis   | Homework 4   |
+| 12 | 11/12/2024   | Cluster analysis  |  |
+|    | 11/14/2024   | Cluster analysis  |  |
+| 13 | 11/19/2024   | Cluster analysis  |  |
+|    | 11/21/2024   | No class (Thanksgiving)  | Homework 5   |
+| 14 | 11/26/2024   | Anomaly detection  |  |
+|    | 11/28/2024   | Applications  |   | 
+| 15 | 12/3/2024    | Project presentation   |  |
+|    | 12/5/2024    | Project presentation   |  Project final report |
+| 16 |              | Final Exam |   |
 

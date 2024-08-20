@@ -35,5 +35,5 @@
 |    | 11/28/2024   | Applications  |   | 
 | 15 | 12/3/2024    | Project presentation   |  |
 |    | 12/5/2024    | Project presentation   |   |
-| 16 |              | Final Exam |   |
+| 16 | 12/11/2024   | Final Exam (10:00am-12:00pm) |   |
 

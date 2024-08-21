@@ -7,8 +7,8 @@
 - Lecture Location: Hubbard Hall G32
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
-- Instructor's office hours: TBD
-- Teaching Assistant: TBD
+- Instructor's office hours: Tue 1:00-2:00pm, Fri 11:00am-12:00pm
+- Teaching Assistant: [Asadullah Galib](https://galib19.github.io/) [[email](mailto:galibasa@msu.edu)] 
 - TA's office hours: TBD
 
 ### Course Description: 

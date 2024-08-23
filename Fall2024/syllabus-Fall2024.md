@@ -7,10 +7,9 @@
 - Lecture Location: Hubbard Hall G32
 - Teaching Modality: In-person.
 - Instructor: [Pang-Ning Tan](http://www.cse.msu.edu/~ptan) [[email](mailto:ptan@msu.edu)] 
-- Instructor's office hours: Tue 1:00-2:00pm, Fri 11:00am-12:00pm
-- Teaching Assistant: [Asadullah Galib](https://galib19.github.io/) [[email](mailto:galibasa@msu.edu)] 
-- TA's office hours: TBD
-
+- Instructor's office hours: Mon 11:00am-12:00pm, Fri 11:00am-12:00pm
+- Grader: [Asadullah Galib](https://galib19.github.io/) [[email](mailto:galibasa@msu.edu)] 
+- 
 ### Course Description: 
 This course will cover the fundamental topics in data mining including classification, clustering, association analysis, and anomaly detection. The course is aimed towards graduate students who are interested to do research in artificial intelligence, data mining, machine learning, and other related disciplines. This is not an introductory course in data mining. Students who have no experience in data analysis but who are interested to learn more about the tools and programming techniques for big data should enroll in CSE 482 (big data analysis) instead. Homework assignments and the class project require programming in Python. Students are expected to have some basic knowledge of algorithms and data structures, linear algebra, and probability/statistics. If you do not have the mathematical background, you should enrol in CSE 840 (Computational Foundations in AI) first.
 

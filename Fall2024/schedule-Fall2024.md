@@ -23,16 +23,16 @@
 |    | 10/17/2024   | Classification   |       |
 | 9  | 10/22/2024   | No class (break day) |  |
 |    | 10/24/2024   | Association analysis  |   |
-| 10 | 10/29/2024   | Sequence mining  |    |
-|    | 10/31/2024    | Graph mining    |   |
-| 11 | 11/5/2024    | Cluster analysis  |  |
+| 10 | 10/29/2024   | Association analysis  |    |
+|    | 10/31/2024    | Sequence mining    |   |
+| 11 | 11/5/2024    | Graph mining  |  |
 |    | 11/7/2024    | Cluster analysis   |    |
 | 12 | 11/12/2024   | Cluster analysis  |  |
 |    | 11/14/2024   | Cluster analysis  |  |
 | 13 | 11/19/2024   | Cluster analysis  |  |
 |    | 11/21/2024   | No class (Thanksgiving)  |    |
-| 14 | 11/26/2024   | Anomaly detection  |  |
-|    | 11/28/2024   | Applications  |   | 
+| 14 | 11/26/2024   | Cluster analysis  |  |
+|    | 11/28/2024   | Anomaly detection  |   | 
 | 15 | 12/3/2024    | Project presentation   |  |
 |    | 12/5/2024    | Project presentation   |   |
 | 16 | 12/11/2024   | Final Exam (10:00am-12:00pm) |   |

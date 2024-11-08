@@ -30,9 +30,9 @@
 | 12 | 11/12/2024   | Cluster analysis  |  |
 |    | 11/14/2024   | Cluster analysis  |  |
 | 13 | 11/19/2024   | Cluster analysis  |  |
-|    | 11/21/2024   | No class (Thanksgiving)  |    |
+|    | 11/21/2024   | Cluster Analysis  |    |
 | 14 | 11/26/2024   | Cluster analysis  |  |
-|    | 11/28/2024   | Anomaly detection  |   | 
+|    | 11/28/2024   | Thanksgiving (No class)  |   | 
 | 15 | 12/3/2024    | Project presentation   |  |
 |    | 12/5/2024    | Project presentation   |   |
 | 16 | 12/11/2024   | Final Exam (10:00am-12:00pm) |   |

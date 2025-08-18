@@ -18,7 +18,7 @@ Sample chapters of the book are available at [here](http://www.cs.umn.edu/~kumar
 - Mining of Massive Datasets by Leskovec, Rajaraman, and Ullman, 2nd Edition, Cambridge University Press (2014), available [here](http://www.mmds.org).
 
 ### Prerequisites:
-- CSE 840 or CSE 482
+- CSE 840 or CSE 482.  
   
 ### Course Requirements:
 -	Access to [Desire2Learn](https://d2l.msu.edu) (D2L) and [Piazza](https://piazza.com/msu/fall2025/cse881/home). 

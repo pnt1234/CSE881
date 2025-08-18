@@ -35,5 +35,5 @@
 |    | 11/27/2025   | No class (Thanksgiving)  |   | 
 | 15 | 12/2/2025    | Project presentation   |  |
 |    | 12/4/2025    | Project presentation   |   |
-| 16 |  TBD         | Final Exam (10:00am-12:00pm) |   |
+| 16 | 12/10/2025   | Final Exam (10:00am-12:00pm) |   |
 

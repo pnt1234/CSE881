@@ -6,7 +6,7 @@
 | Week |    Dates   |    Topics and Reading Materials                |  Deliverables     |
 |------|:-----------|------------------------------------------------|----------------------|
 | 1  | 8/26/2025    | Introduction  |                    |
-|    | 8/28/2025    | Data                         |                    | 
+|    | 8/28/2025    | Data Quality                        |                    | 
 | 2  | 9/2/2025     | Data preprocessing   |       |
 |    | 9/4/2025     | Data preprocessing  |       |
 | 3  | 9/9/2025    | Data preprocessing   |       | 

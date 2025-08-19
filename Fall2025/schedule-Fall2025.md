@@ -18,7 +18,7 @@
 | 6  | 9/30/2025    | Classification   |       |
 |    | 10/2/2025    | Classification   |   Homework 2    |
 | 7  | 10/7/2025   | Classification   |       |
-|    | 10/9/2025   | <font color="red">Midterm exam</font>     |       |
+|    | 10/9/2025   | **Midterm exam**     |       |
 | 8  | 10/14/2025   | Classification   |       |
 |    | 10/16/2025   | Classification   |       |
 | 9  | 10/21/2025   | No class (break day) |  |
@@ -35,5 +35,5 @@
 |    | 11/27/2025   | No class (Thanksgiving)  |   | 
 | 15 | 12/2/2025    | Project presentation   |  |
 |    | 12/4/2025    | Project presentation   | Final report  |
-| 16 | 12/10/2025   | Final exam (10:00am-12:00pm)  |   |
+| 16 | 12/10/2025   | **Final exam (10:00am-12:00pm)**  |   |
 

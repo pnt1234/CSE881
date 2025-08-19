@@ -18,7 +18,7 @@
 | 6  | 9/30/2025    | Classification   |       |
 |    | 10/2/2025    | Classification   |   Homework 2    |
 | 7  | 10/7/2025   | Classification   |       |
-|    | 10/9/2025   | $${\color{red}Midterm exam}$$     |       |
+|    | 10/9/2025   | $${\color{red}\textrm{Midterm exam}}$$     |       |
 | 8  | 10/14/2025   | Classification   |       |
 |    | 10/16/2025   | Classification   |       |
 | 9  | 10/21/2025   | No class (break day) |  |

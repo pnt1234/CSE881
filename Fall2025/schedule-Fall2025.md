@@ -14,7 +14,7 @@
 | 4  | 9/16/2025    | Regression analysis   |       | 
 |    | 9/18/2025    | Time series forecasting   | Homework 1      |
 | 5  | 9/23/2025    | Classification   |   |
-|    | 9/25/2025    | Classification   |            |
+|    | 9/25/2025    | No class   |            |
 | 6  | 9/30/2025    | Classification   |       |
 |    | 10/2/2025    | Classification   |   Homework 2    |
 | 7  | 10/7/2025   | Classification   |       |

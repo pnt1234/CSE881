@@ -31,9 +31,9 @@
 |    | 11/13/2025   | Cluster analysis  |  |
 | 13 | 11/18/2025   | Cluster analysis  |  |
 |    | 11/20/2025   | Cluster Analysis  | Homework 4   |
-| 14 | 11/25/2025   | Spatio-temporal mining  |  |
+| 14 | 11/25/2025   | Anomaly Detection  |  |
 |    | 11/27/2025   | No class (Thanksgiving)  |   | 
-| 15 | 12/2/2025    | Project presentation   |  |
+| 15 | 12/2/2025    | Spatio-temporal mining   |  |
 |    | 12/4/2025    | Project presentation   | Final report  |
 | 16 | 12/10/2025   | **Final exam (10:00am-12:00pm)**  |   |
 

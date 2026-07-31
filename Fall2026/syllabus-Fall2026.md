@@ -21,11 +21,11 @@ Sample chapters of the book are available at [here](http://www.cs.umn.edu/~kumar
 - CSE 840 or CSE 482.  
   
 ### Course Requirements:
--	Access to [Desire2Learn](https://d2l.msu.edu) (D2L) and [Piazza](https://piazza.com/msu/fall2025/cse881/home). 
+-	Access to [Desire2Learn](https://d2l.msu.edu) (D2L) and [Piazza](https://piazza.com/msu/fall2026/cse881/home). 
 -	Laptop or desktop computer with capabilities to write and execute python programs. 
 
 ### Course Delivery:
-This course will be delivered in person. You can access the course materials, assignments, and other additional resources from D2L. [Piazza](https://piazza.com/msu/fall2025/cse881/home) will be used as the discussion forum for students to ask questions. 
+This course will be delivered in person. You can access the course materials, assignments, and other additional resources from D2L. [Piazza](https://piazza.com/msu/fall2026/cse881/home) will be used as the discussion forum for students to ask questions. 
 
 ### Instructional Objectives:
 The primary learning objectives of this course are:
@@ -47,7 +47,7 @@ The topics to be covered in this course include:
 - Anomaly detection
 - Applications.
 
-A tentative class schedule can be found [here](https://pnt1234.github.io/CSE881/Fall2025/schedule-Fall2025)
+A tentative class schedule can be found [here](https://pnt1234.github.io/CSE881/Fall2026/schedule-Fall2026)
 
 ### Course Assessment:
 Students will be assessed based on the following:
@@ -69,16 +69,16 @@ The final grade will be determined based on the following scale:
 | 1.0 | [60,65)  |
 
 ### Important Dates:
-The last day for online add period is August 29, 2025. The last day to drop this course with tuition refund is Sept 18, 2025. Middle of the semester and last date to drop with no grade reported is October 13, 2025. More details about the academic calendar can be found at [https://reg.msu.edu/ROInfo/Calendar/Academic.aspx](https://reg.msu.edu/ROInfo/Calendar/Academic.aspx). Other important dates:
-- Sept 1, 2025: No class (due to Labor day)
-- Oct 20-21, 2025: No class (Fall break)
+The last day for online add period is September 4, 2026. The last day to drop this course with tuition refund is September ??, 2026. Middle of the semester and last date to drop with no grade reported is October 19, 2026. More details about the academic calendar can be found at [https://reg.msu.edu/ROInfo/Calendar/Academic.aspx](https://reg.msu.edu/ROInfo/Calendar/Academic.aspx). Other important dates:
+- Oct 26-27, 2026: No class (Fall break)
+- Nov 26-27, 2026: No class (Thanksgiving break)
 
 ### Course Policies:
 
 - **Attendance:** Attendance is mandatory. Students are expected to attend all the lectures and must inform the instructor if they are unable to do so due to emergency or other legitimate reasons. Failure to attend **more than 5 lectures without prior approval** from the instructor will result in 5% deduction from your overall grade.
 - **Assignment and Late Submission Policy:** Homework assignments are due before midnight on the due date unless specified otherwise. All written portion of your assignments must be typed and submitted in PDF format (no handwritten notes will be accepted). LaTex templates will be provided (Word or other text editors are also acceptable). You must use [D2L](http://d2l.msu.edu) to submit your solution. Late assignments will be penalized 25% of the total possible assignment grade (if submitted the next day after the deadline) or 50% (if submitted the second day after the deadline). Assignments submitted later than that will not be accepted.
-- **Exam Information:** There will be 1 midterm and 1 final exam. Exams will be open book and notes. The final exam is scheduled to be held on **Wednesday, December 10, 2025 from 10:00am-12:00pm**. Please note the difference between the lecture and final exam date and time. Make-up examination can be arranged if your absence is due to conference travel, documented illness, or personal emergency. A written explanation (including supporting documentation) must be submitted to the instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance, at least a week before the scheduled exam. 
-- **Discussion Forum:** We will be using [Piazza](https://piazza.com/msu/fall2025/cse881/home) for class discussion. Rather than emailing class-related questions to the instructor, you are encouraged to post them on Piazza. Do not post your partial solution (e.g., snippets of your code) or attempted solution (e.g., for assignments or project) on Piazza. In addition, you are prohibited from posting the course materials (including slides, homework assignments, exam, and their solutions) on any websites without prior permission from the instructor. You are also prohibited from soliciting help by posting homework questions online on websites such as Chegg, Brainly, Quizlet, and other similar websites. Violation of the policy will result in an Academic Dishonesty Report (ADR) filed and a zero grade for the entire assignment. The ADR for students who continue to post questions from assignments to these sites will lead to additional sanctions, including an automatic failing grade of zero (0.0) for the course. 
+- **Exam Information:** There will be 1 midterm and 1 final exam. Exams will be open book and notes. The final exam is scheduled to be held on **TBD**. Please note the difference between the lecture and final exam date and time. Make-up examination can be arranged if your absence is due to conference travel, documented illness, or personal emergency. A written explanation (including supporting documentation) must be submitted to the instructor; if the explanation is acceptable, an alternative to the examination will be arranged. Except for emergency cases, make-up arrangements must be made in advance, at least a week before the scheduled exam. 
+- **Discussion Forum:** We will be using [Piazza](https://piazza.com/msu/fall2026/cse881/home) for class discussion. Rather than emailing class-related questions to the instructor, you are encouraged to post them on Piazza. Do not post your partial solution (e.g., snippets of your code) or attempted solution (e.g., for assignments or project) on Piazza. In addition, you are prohibited from posting the course materials (including slides, homework assignments, exam, and their solutions) on any websites without prior permission from the instructor. You are also prohibited from soliciting help by posting homework questions online on websites such as Chegg, Brainly, Quizlet, and other similar websites. Violation of the policy will result in an Academic Dishonesty Report (ADR) filed and a zero grade for the entire assignment. The ADR for students who continue to post questions from assignments to these sites will lead to additional sanctions, including an automatic failing grade of zero (0.0) for the course. 
 - **Study Groups:** You are allowed to form study groups to learn the materials in class. However, you are forbidden from sharing the solution of your homework assignments with other students.  This includes sharing your solution for the purpose of double-checking answers. All submitted assignments (homeworks, project, and exam) must be your own work.**Students who were found copying or sharing their solutions with other students will automatically receive a zero for the ENTIRE assignment.* In addition, an Academic Dishonesty Report will be filed and submitted to the university.
 - **Generative AI:** Generative AI may be used for brainstorming ideas, outline drafting, and polishing your project report; however, it may not be used to impersonate you, e.g., by writing entire sentences/paragraphs in your project report, providing the entire proof and answers for your homework assignment, or the complete code for your homework assignment and project. If you're unsure about the policy, please contact the instructor.   
 - **Resources for Students:** 	Michigan State University is committed to providing equal opportunity for participation in all programs, services, and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities (RCPD) at 517-884-RCPD or by visiting their website at [http://www.rcpd.msu.edu](http://www.rcpd.msu.edu). Once your eligibility for an accommodation has been determined, you will be issued an Accommodation Letter. Please present this form to me at the start of the term or at least two weeks prior to the accommodation date (e.g., for exam). MSU CAPS (Counseling and Psychiatric Services) also offers free, confidential support for students’ mental health and wellbeing. More information can be found at [https://caps.msu.edu/](https://caps.msu.edu/).

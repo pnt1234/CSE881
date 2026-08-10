@@ -5,7 +5,7 @@
 
 | Week |    Dates   |    Topics and Reading Materials                |  Deliverables (tentative deadline)     |
 |------|:-----------|------------------------------------------------|----------------------|
-| 1  | 9/1/2026    | Introduction  |                    |
+| 1  | 9/1/2026    | Data quality  |                    |
 |    | 9/3/2026    | Data quality                        |                    | 
 | 2  | 9/8/2026     | Data preprocessing   |       |
 |    | 9/10/2026     | Data preprocessing  |       |

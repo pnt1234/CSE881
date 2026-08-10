@@ -1,4 +1,4 @@
-## CSE881: Data Mining (Fall 2025)
+## CSE881: Data Mining (Fall 2026)
 ---
 
 ### General Information:

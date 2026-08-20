@@ -8,8 +8,8 @@
 | 1  | 9/1/2026    | Data quality  |                    |
 |    | 9/3/2026    | Data quality                        |                    | 
 | 2  | 9/8/2026     | Data preprocessing   |       |
-|    | 9/10/2026     | Data preprocessing  |       |
-| 3  | 9/15/2026    | Data preprocessing   |       | 
+|    | 9/10/2026     | Dimensionality reduction  |       |
+| 3  | 9/15/2026    | Dimensionality reduction   |       | 
 |    | 9/17/2026    | Similarity search   |       |
 | 4  | 9/22/2026    | Regression analysis   |       | 
 |    | 9/24/2026    | Time series forecasting   |  Homework 1     |

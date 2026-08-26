@@ -28,8 +28,8 @@
 | 11 | 11/10/2026    | Cluster analysis  |  |
 |    | 11/12/2026    | Cluster analysis   |    |
 | 12 | 11/17/2026   | **Exam 2**  |  |
-|    | 11/19/2026   | Cluster analysis  |  |
-| 13 | 11/24/2026   | Cluster analysis  | Homework 4 |
+|    | 11/19/2026   | Cluster analysis  | Homework 4 |
+| 13 | 11/24/2026   | Cluster analysis  |  |
 |    | 11/26/2026   | No Class (Thanksgiving) |    |
 | 14 | 12/1/2026   |  Anomaly detection |   |
 |    | 12/3/2026   | Spatio-temporal mining       |   | 

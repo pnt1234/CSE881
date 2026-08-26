@@ -20,20 +20,20 @@
 | 7  | 10/13/2026   | Classification   |       |
 |    | 10/15/2026   | Classification     | Homework 2      |
 | 8  | 10/20/2026   | Classification   |       |
-|    | 10/22/2026   | Classification   |       |
+|    | 10/22/2026   | Association analysis   |       |
 | 9  | 10/27/2026   | No class (break day) |  |
 |    | 10/29/2026   | Association analysis  |   |
-| 10 | 11/3/2026   |  Association analysis |    |
-|    | 11/5/2026    | Sequence mining    |  Homework 3 |
-| 11 | 11/10/2026    | Graph mining  |  |
+| 10 | 11/3/2026   |  Sequence mining |    |
+|    | 11/5/2026    | Graph mining    |  Homework 3 |
+| 11 | 11/10/2026    | Cluster analysis  |  |
 |    | 11/12/2026    | Cluster analysis   |    |
 | 12 | 11/17/2026   | **Exam 2**  |  |
 |    | 11/19/2026   | Cluster analysis  |  |
 | 13 | 11/24/2026   | Cluster analysis  | Homework 4 |
 |    | 11/26/2026   | No Class (Thanksgiving) |    |
-| 14 | 12/1/2026   |  Cluster analysis |   |
-|    | 12/3/2026   | Anomaly Detection       |   | 
-| 15 | 12/8/2026    | Spatio-temporal mining   |  |
+| 14 | 12/1/2026   |  Anomaly detection |   |
+|    | 12/3/2026   | Spatio-temporal mining       |   | 
+| 15 | 12/8/2026    | Project presentation   |  |
 |    | 12/10/2026    | Project presentation   | Final report  |
 | 16 | 12/16/2026   | **Exam 3** (10:10am - 12:10pm) |   |
 

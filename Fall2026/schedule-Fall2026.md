@@ -1,6 +1,6 @@
 ## Tentative Class Schedule
 ---
- Below is a tentative schedule for the class. Instructor reserves the right to modify it (especially the deadline for homework assignments). Please check back regularly. 
+ Below is a tentative schedule for the class. Homework assignments are typically due on Sunday (before midnight) unless stated otherwise. Instructor reserves the right to modify it (especially the deadline for homework assignments). Please check back regularly. 
 
 
 | Week |    Dates   |    Topics and Reading Materials                |  Deliverables (tentative deadline)     |

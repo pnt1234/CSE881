@@ -15,8 +15,8 @@
 |    | 9/24/2026    | Time series forecasting   |  Homework 1     |
 | 5  | 9/29/2026    | Classification   |   |
 |    | 10/1/2026    | Classification   |            |
-| 6  | 10/6/2026    | **Exam 1**   |       |
-|    | 10/8/2026    | Classification   |       |
+| 6  | 10/6/2026    | Classification   |       |
+|    | 10/8/2026    | **Exam 1**   |       |
 | 7  | 10/13/2026   | Classification   |       |
 |    | 10/15/2026   | Classification     |       |
 | 8  | 10/20/2026   | Classification   | Homework 2      |

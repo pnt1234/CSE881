@@ -18,8 +18,8 @@
 | 6  | 10/6/2026    | Classification   |       |
 |    | 10/8/2026    | **Exam 1**   |       |
 | 7  | 10/13/2026   | Classification   |       |
-|    | 10/15/2026   | Classification     |       |
-| 8  | 10/20/2026   | Classification   | Homework 2      |
+|    | 10/15/2026   | Classification     | Homework 2      |
+| 8  | 10/20/2026   | Classification   |       |
 |    | 10/22/2026   | Classification   |       |
 | 9  | 10/27/2026   | No class (break day) |  |
 |    | 10/29/2026   | Association analysis  |   |

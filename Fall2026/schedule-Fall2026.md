@@ -23,11 +23,11 @@
 |    | 10/22/2026   | Classification   |       |
 | 9  | 10/27/2026   | No class (break day) |  |
 |    | 10/29/2026   | Association analysis  |   |
-| 10 | 11/3/2026   | **Exam 2**  |    |
-|    | 11/5/2026    | Association analysis    |   |
-| 11 | 11/10/2026    | Sequence mining  | Homework 3 |
-|    | 11/12/2026    | Graph mining   |    |
-| 12 | 11/17/2026   | Cluster analysis  |  |
+| 10 | 11/3/2026   |  Association analysis |    |
+|    | 11/5/2026    | Sequence mining    |  Homework 3 |
+| 11 | 11/10/2026    | Graph mining  |  |
+|    | 11/12/2026    | Cluster analysis   |    |
+| 12 | 11/17/2026   | **Exam 2**  |  |
 |    | 11/19/2026   | Cluster analysis  |  |
 | 13 | 11/24/2026   | Cluster analysis  | Homework 4 |
 |    | 11/26/2026   | No Class (Thanksgiving) |    |

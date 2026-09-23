@@ -12,8 +12,8 @@
 | 3  | 9/15/2026    | Dimensionality reduction   |       | 
 |    | 9/17/2026    | Similarity search   |       |
 | 4  | 9/22/2026    | Regression analysis   |       | 
-|    | 9/24/2026    | Time series forecasting   |  Homework 1     |
-| 5  | 9/29/2026    | Classification   |   |
+|    | 9/24/2026    | Time series modeling   |  Homework 1     |
+| 5  | 9/29/2026    | Time series modeling   |   |
 |    | 10/1/2026    | Classification   |            |
 | 6  | 10/6/2026    | **Exam 1**   |       |
 |    | 10/8/2026    | Classification   |       |
